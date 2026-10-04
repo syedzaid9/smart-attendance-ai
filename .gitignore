@@ -1,9 +1,8 @@
-venv/
+﻿venv/
 .venv/
 __pycache__/
 *.pyc
 .env
-.vscode 
-.streamlit/
-resemblyzer
-librosa
+.env.*
+.vscode/
+.idea/
